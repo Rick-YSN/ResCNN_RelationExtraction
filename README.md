@@ -1,3 +1,5 @@
+# 本文进行大型神经网络在 NYT dataset 数据库的实验，并提出深度残差网络来解决 distant supervision 带来的噪声干扰。
+
 # ResCNN_RelationExtraction
  Deep Residual Learning for Weakly-Supervised Relation Extraction: https://arxiv.org/abs/1707.08866
  By Yi Yao (Darren) Huang, [William Wang](https://www.cs.ucsb.edu/~william/)
